@@ -1,0 +1,7 @@
+{ "client" : [ {"name":"John", "prenom":"Ken", "age":30, "city":"New York"},
+
+             {"name":"Doe", "prenom":"Mary","age":30, "city":"New York"},
+
+             {"name":"Luck", "prenom":"Paul", "age":30, "city":"New York"},
+
+                        ]
